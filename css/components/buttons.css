@@ -1,0 +1,9 @@
+.btn-treehouse {
+  margin-top: 32px;
+  display: inline-block;
+  color: white;
+  background-color: #66DD89;
+  font-weight: 400;
+  padding: 12px 24px;
+  border-radius: 24px;
+}
